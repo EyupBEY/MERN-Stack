@@ -1,6 +1,8 @@
 # MERN-Stack
 This repo was made using a video on the freecodecamp youtube channel (https://www.youtube.com/watch?v=mrHNSanmqQ4&amp;list=PLdRnihRBaZHQc0ZD0TOh6t8RXhbo-LNV9&amp;index=3).
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1- Open Mongodb new project
 2- Create a new cluster
 3- Connect ---> Add this ip address ------> Create db user ------> Choose connection method -----> Connect your application ---->(copy the thing nearly similar to mongodb+srv://<username>:<password>@cluster0.341fn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority) -----> Close
@@ -30,7 +32,7 @@ Terminal:
   
  ------------ Code whole backend/ ------------
  
-  By the way, you can use **a browser or Insomnia or Postman **to GET requests.(http://localhost:5000/api/v1/restaurants  , http://localhost:5000/api/v1/restaurants?zipcode=11224)
+  By the way, you can use a browser or Insomnia or Postman to GET requests.(http://localhost:5000/api/v1/restaurants  , http://localhost:5000/api/v1/restaurants?zipcode=11224)
 
   MongoDB
     Collections ----> Sample Restaurants ----> restaurants ------> Create Index ------> {"name":"text"} ----> Review -----> Confirm
